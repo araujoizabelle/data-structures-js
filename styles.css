@@ -1,0 +1,9 @@
+#stacks-div {
+    height: 500px;
+    width: 700px;
+
+}
+#stack ul {
+    display: flex;
+    flex-direction: column-reverse;
+}
